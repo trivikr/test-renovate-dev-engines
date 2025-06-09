@@ -19,6 +19,11 @@ This project contains a package.json which has defined yarn@4.8.0 as package man
 When a dependency update is requested through Renovate app, it fails with the following error
 ```console
 ...
+Repository started
+{
+  "renovateVersion": "40.48.5"
+}
+...
 DEBUG: Resolved stable matching version (branch="renovate/express-5.x-lockfile")
 {
   "toolName": "yarn"
